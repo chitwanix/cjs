@@ -1,4 +1,4 @@
 cjs
 ===
 
-Firefox Plugins
+A plugin for Mozilla 
